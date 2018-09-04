@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.aiselis</groupId>
     <artifactId>remote-powershell</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
     <name>Remote PowerShell</name>
     <description>Remote java client for PowerShell</description>
@@ -26,7 +26,7 @@
         <connection>scm:git:git@github.com:juniperus/remotepowershell.git</connection>
         <developerConnection>scm:git:git@github.com:juniperus/remotepowershell.git</developerConnection>
         <url>https://github.com/juniperus/remotepowershell.git</url>
-        <tag>HEAD</tag>
+        <tag>remote-powershell-0.0.1</tag>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
